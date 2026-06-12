@@ -47,9 +47,9 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: linkedin.com/in/shaik-ayesha-15711040a
+LinkedIn: https://www.linkedin.com/in/shaik-ayesha-15711040a
 
-GitHub: 
+GitHub: https://github.com/ayeshashaik937
 
 ---
 
