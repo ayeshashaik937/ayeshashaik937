@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Ayesha 👋
 
-<!--
-**ayeshashaik937/ayeshashaik937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 Computer Science Engineering Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Passionate about Software Development and Web Technologies
+- 🌱 Currently learning Data Structures, React.js and Machine Learning
+- 🚀 Exploring new technologies and building projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Python
+- Java
+- C
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- React.js
+- Node.js
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- MySQL
+
+## 📌 Projects
+
+### 🍴 Food Ordering Website
+- Built a responsive food ordering website using React.js
+- Includes menu display and order confirmation features
+
+### 🤖 Machine Learning Projects
+- Exploring ML algorithms and data analysis using Python
+
+## 📚 Currently Learning
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+
+## 🏆 Achievements
+- B.Tech CSE Student
+- CGPA: 9.53
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/shaik-ayesha-15711040a
+
+GitHub: 
+
+---
+
+⭐ "Learning, Building and Growing every day!"
